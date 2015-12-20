@@ -3,7 +3,7 @@
 // @description automatically commit driver training
 // @include     http://www.350500.prcjx.net/admin/std/training/*
 // @require     http://code.jquery.com/jquery-2.1.1.min.js
-// @version     3
+// @version     1
 // ==/UserScript==
 $(function () {
     var url = location.href;
